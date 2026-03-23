@@ -1,17 +1,3 @@
-Inspecting recent git history and diffs for PagerDuty notification update/delete changes.
-
-
-
-[6 tools called]
-
-
-Tracing the full delete/update flows and `deleteWebHook` contract after the PR.
-
-
-
-[11 tools called]
-
-
 Here’s a concise review of **PR #622** (`3a4f6363` – PagerDuty update/delete authorization) and how it relates to the **“User id not found for webhook URL”** situation.
 
 ## What the PR changed
