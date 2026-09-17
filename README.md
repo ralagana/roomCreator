@@ -1,4 +1,4 @@
-# Description
+# Descriptions
 Create rooms in bulk using APIs.
 
 # Usage
